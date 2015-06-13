@@ -54,3 +54,9 @@ By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
 * Understanding Computation (2013)
 
+And my personal top 3 of all time...
+
+1. Programming Pearls (1999)
+2. [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming) (1999)
+3. [TCP/IP Illustrated Volume 1: The Protocols](https://en.wikipedia.org/wiki/TCP/IP_Illustrated) (1994)
+
