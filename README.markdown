@@ -8,6 +8,7 @@ By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 * Programming Pearls (1999)
 * [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming) (1999)
 * [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (2000)
+* Code Simplicity (2012)
 
 ##### Software Engineering
 
