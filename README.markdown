@@ -3,9 +3,11 @@
 
 By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
+Current total: 22
+
 ##### Programming
 
-* Programming Pearls by [Bently](https://en.wikipedia.org/wiki/Jon_Bentley) (1999)
+* Programming Pearls by [Bentley](https://en.wikipedia.org/wiki/Jon_Bentley) (1999)
 * [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming) by [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1999)
 * [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (2000)
 * Code Simplicity (2012)
