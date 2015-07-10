@@ -5,8 +5,8 @@ By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
 ##### Programming
 
-* Programming Pearls (1999)
-* [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming) (1999)
+* Programming Pearls by [Bently](https://en.wikipedia.org/wiki/Jon_Bentley) (1999)
+* [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming) by [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1999)
 * [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (2000)
 * Code Simplicity (2012)
 
@@ -31,8 +31,8 @@ By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
 ##### Project management
 
-* [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) (1995)
-* Software Estimation (2006)
+* [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) by [Brooks](https://en.wikipedia.org/wiki/Fred_Brooks) (1995)
+* Software Estimation by [McConnell](https://en.wikipedia.org/wiki/Steve_McConnell) (2006)
 
 ##### People-matters
 
@@ -40,7 +40,7 @@ By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
 ##### Networking
 
-* [TCP/IP Illustrated Volume 1: The Protocols](https://en.wikipedia.org/wiki/TCP/IP_Illustrated) (1994)
+* [TCP/IP Illustrated Volume 1: The Protocols](https://en.wikipedia.org/wiki/TCP/IP_Illustrated) by [Stevens](https://en.wikipedia.org/wiki/W._Richard_Stevens) (1994)
 
 ##### Security
 
@@ -48,7 +48,7 @@ By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
 ##### Tools
 
-* [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) (1984)
+* [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) by [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1984)
 * Pragmatic Guide to Git (2010)
 
 ##### Pure computer science
