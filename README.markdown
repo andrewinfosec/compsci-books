@@ -9,8 +9,8 @@ Current total: 23
 
 * Programming Pearls by [Bentley](https://en.wikipedia.org/wiki/Jon_Bentley) (1999)
 * [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming) by [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1999)
-* [Coders at Work](https://en.wikipedia.org/wiki/Coders_at_work) (2009)
 * [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (2000)
+* [Coders at Work](https://en.wikipedia.org/wiki/Coders_at_work) (2009)
 * Code Simplicity (2012)
 
 ##### Software Engineering
@@ -21,7 +21,7 @@ Current total: 23
 ##### Architecture/design
 
 * [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns) (1995)
-  * But see [this caveat](http://norvig.com/design-patterns) by [Norvig](https://en.wikipedia.org/wiki/Peter_Norvig).
+  * See this [caveat](http://norvig.com/design-patterns) by [Norvig](https://en.wikipedia.org/wiki/Peter_Norvig).
 * RESTful Web Services (2007)
 * Design Patterns in Ruby (2008)
 * The Architecture of Open Source Applications (2011)
