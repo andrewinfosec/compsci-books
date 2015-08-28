@@ -20,7 +20,7 @@ Current total: 23
 
 ##### Architecture/design
 
-* [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns) (1995) - but see this [caveat](http://norvig.com/design-patterns).
+* [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns) (1995) - but see [this](http://norvig.com/design-patterns) and [this](https://groups.google.com/forum/m/#!msg/golang-nuts/3fOIZ1VLn1o/GeE1z5qUA6YJ).
 * RESTful Web Services (2007)
 * Design Patterns in Ruby (2008)
 * The Architecture of Open Source Applications (2011)
