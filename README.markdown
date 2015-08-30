@@ -3,7 +3,7 @@
 
 By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
-Current total: 23
+Current total: 24
 
 ##### Programming
 
@@ -56,5 +56,6 @@ Current total: 23
 
 ##### Pure computer science
 
+* [Selected Papers on Computer Science](https://en.wikipedia.org/wiki/Selected_papers_series_of_Knuth) by [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) (1996).
 * Understanding Computation (2013)
 
