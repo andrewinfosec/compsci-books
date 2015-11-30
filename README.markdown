@@ -3,7 +3,7 @@
 
 By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
-Current total: 24
+Current total: 25
 
 ##### Programming
 
@@ -31,6 +31,7 @@ Current total: 24
 * [Practical Common Lisp](https://en.wikipedia.org/wiki/Practical_Common_Lisp) (2005)
 * Learning Ruby (2007)
 * The Ruby Programming Language (2008)
+* The Go Programming Language by Donovan & [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) (2015)
 
 ##### Project management
 
