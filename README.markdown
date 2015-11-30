@@ -31,7 +31,7 @@ Current total: 25
 * [Practical Common Lisp](https://en.wikipedia.org/wiki/Practical_Common_Lisp) (2005)
 * Learning Ruby (2007)
 * The Ruby Programming Language (2008)
-* The Go Programming Language by Donovan & [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) (2015)
+* The Go Programming Language by Donovan and [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) (2015)
 
 ##### Project management
 
