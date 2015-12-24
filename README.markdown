@@ -48,7 +48,7 @@ Current total: 25
 
 ##### Security
 
-* Building Secure Software (2001)
+* Building Secure Software by [Viega](https://en.wikipedia.org/wiki/John_Viega) and [McGraw](https://en.wikipedia.org/wiki/Gary_McGraw) (2001)
 
 ##### Tools
 
