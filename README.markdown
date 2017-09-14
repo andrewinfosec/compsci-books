@@ -7,8 +7,8 @@ Current total: 27
 
 ##### Programming
 
-* More Programming Pearls by [Bentley](https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist)) (1998)
 * [Literate Programming](https://en.wikipedia.org/wiki/Literate_programming) by [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) (1992)
+* More Programming Pearls by [Bentley](https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist)) (1998)
 * Programming Pearls (second edition) by [Bentley](https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist)) (1999)
 * [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming) by [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1999)
 * [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (2000)
@@ -61,4 +61,6 @@ Current total: 27
 
 * [Selected Papers on Computer Science](https://en.wikipedia.org/wiki/Selected_papers_series_of_Knuth) by [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) (1996)
 * Understanding Computation (2013)
+
+<!-- Other books that I have read, but that were not strong enough for me to recommend: -->
 
