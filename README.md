@@ -63,6 +63,7 @@ Current total: 36
 * Securing DevOps (2018)
 * Practical Cloud Security (2019)
 * Web Application Security (2020)
+* Building Secure & Reliable Systems (2020)
 
 ##### Tools
 
