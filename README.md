@@ -68,7 +68,6 @@ Current total: 36
 ##### Tools
 
 * [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) by [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1984)
-* Pragmatic Guide to Git (2010)
 
 ##### Computer Science
 
