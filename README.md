@@ -3,7 +3,7 @@
 
 By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
-Current total: 36
+Current total: 37
 
 ##### Programming
 
@@ -60,6 +60,7 @@ Current total: 36
 * Building Secure Software by [Viega](https://en.wikipedia.org/wiki/John_Viega) and [McGraw](https://en.wikipedia.org/wiki/Gary_McGraw) (2001)
 * Practical Cryptography (2003)
 * Threat Modeling (2014)
+* Zero Trust Networks (2017)
 * Securing DevOps (2018)
 * Practical Cloud Security (2019)
 * Web Application Security (2020)
