@@ -3,7 +3,7 @@
 
 By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
-Current total: 37
+Current total: 38
 
 ##### Programming
 
@@ -65,6 +65,7 @@ Current total: 37
 * Practical Cloud Security (2019)
 * Web Application Security (2020)
 * Building Secure & Reliable Systems (2020)
+* Container Security (2020)
 
 ##### Tools
 
