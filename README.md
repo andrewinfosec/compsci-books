@@ -3,7 +3,7 @@
 
 By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
 
-Current total: 38
+Current total: 39
 
 ##### Programming
 
@@ -70,6 +70,7 @@ Current total: 38
 ##### Tools
 
 * [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) by [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1984)
+* Linux Observability with BPF (2019)
 
 ##### Pure Computer Science
 
