@@ -71,7 +71,7 @@ Current total: 38
 
 * [The Unix Programming Environment](https://en.wikipedia.org/wiki/The_Unix_Programming_Environment) by [Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Pike](https://en.wikipedia.org/wiki/Rob_Pike) (1984)
 
-##### Computer Science
+##### Pure Computer Science
 
 * [Selected Papers on Computer Science](https://en.wikipedia.org/wiki/Selected_papers_series_of_Knuth) by [Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) (1996)
 * Understanding Computation (2013)
