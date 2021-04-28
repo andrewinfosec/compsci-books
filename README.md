@@ -1,7 +1,7 @@
 
 ### compsci-books: Computer science books I recommend
 
-By Andrew Stewart ([http://andrewinfosec.com](http://andrewinfosec.com))
+By Andrew Stewart ([https://andrewinfosec.com](https://andrewinfosec.com))
 
 Current total: 39
 
